@@ -19,3 +19,4 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 Route::get('/c19/{date1}','LocationController@index');
 Route::get('/c19/all/{date1}','InfController@index');
+Route::get('/news','NewController@index');

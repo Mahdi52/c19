@@ -25,3 +25,10 @@ Route::get('/all/show', 'InfController@index1');
 Route::get('/all/Add', 'InfController@create');
 
 Route::post('/all/show', 'InfController@store');
+
+
+//////////////news
+Route::get('/news/show', 'NewController@index1');
+Route::get('/news/Add', 'NewController@create');
+
+Route::post('/news/show', 'NewController@store');
