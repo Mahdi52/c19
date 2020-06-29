@@ -71,7 +71,7 @@
 
         <div style="text-align: center;width: 100%">
             <p style="color:white;font-family: 'Hammersmith One', sans-serif;text-align: center;font-size:11pt">
-                "the street" is an iraqi fashion brand, interested in putting iraqi street words, events and stories into Folklore art style.</p>
+                "The Street" is an iraqi fashion brand, interested in putting iraqi street words, events and stories into Folklore art style.</p>
             <div class="footer-icons">
                 <a href="https://www.facebook.com/thestreet048/"><i style="color:white" class="fa fa-facebook"></i></a>
                 <a href="https://www.instagram.com/___thestreet/"><i style="color:white" class="fa fa-instagram"></i></a>
