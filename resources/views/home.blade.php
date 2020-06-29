@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Katibeh&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-
+    <script data-ad-client="ca-pub-1518526331249554" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <style>
         #footer {
             position: fixed;
@@ -74,6 +74,17 @@
         </div>
 
     </footer>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- street -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1518526331249554"
+     data-ad-slot="1328387441"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 </body>
 
 </html>
