@@ -55,7 +55,17 @@
         <h1 style="color:white;text-align: center;font-family: 'Katibeh', cursive; font-size:70pt">!! الشارع قريب</h1>
     </div>
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- street -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1518526331249554"
+     data-ad-slot="1328387441"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
     <footer id="footer">
 
@@ -74,17 +84,7 @@
         </div>
 
     </footer>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- street -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1518526331249554"
-     data-ad-slot="1328387441"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 </body>
 
 </html>
